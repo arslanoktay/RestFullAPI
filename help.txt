@@ -1,0 +1,1 @@
+air -> ile hotreload versiyonlu server ayağa kalkıyor
